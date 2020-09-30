@@ -1,4 +1,4 @@
-## Get Started
+## Getting Started
 STEP 1
 ```
 python utils.py path_to_your_GoogleNews-vectors-negative300.bin
@@ -69,5 +69,6 @@ There are several versions available on Github written in tensorflow, keras, and
 
 I only focus on the Cornell Movie Review data since it is the data provided in Kim's repo.
 
-## More
+## More details:
 To compare CNN with the traditional bag of words model, I also provide a python script `bag_of_words.py`.
+
